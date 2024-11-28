@@ -1,5 +1,5 @@
 {
-  "name": "e2e-test",
+  "name": "e2e-testi",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,8 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^1.7.8",
+    "bootstrap": "^5.3.3",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^5.3.4",
+    "reactstrap": "^9.2.3"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
